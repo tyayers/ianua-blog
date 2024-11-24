@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Tyler Ayers",
   profile: "https://satnaing.dev/",
   desc: "A collective for sustainable, efficient & creative tech solutions.",
-  title: "ZenLabsWork",
+  title: "Zen_Life_Work",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
