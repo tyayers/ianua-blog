@@ -1,5 +1,5 @@
 ---
-title: What is zen?
+title: What is Zen?
 description: What is the concept of Zen?
 author: tyler@zenlabs.work
 draft: false
@@ -9,7 +9,7 @@ tags:
 pubDatetime: 2024-11-24
 ---
 
-The word "zen" comes from the oringinal Chinese "chán," meaning "mediation,
+The word "zen" comes from the oringinal Chinese "chán," meaning "meditation,
 contemplation, focus on one thing."
 
 This resonates with me completely, in that reducing noise and distraction
