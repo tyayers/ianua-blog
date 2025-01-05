@@ -5,6 +5,8 @@ author: Tyler
 pubDatetime: 2024-11-30
 ---
 
+Note: This was originally posted on the [Technology & Philosophy Substack](https://techphilosophy.substack.com/p/are-digital-things-real-part-2-dereality).
+
 Generative AI is taking over much of the drudgery of tech & IT work. It writes boring code, creates presentations, writes texts that no one reads anyway but have to be there, and does many other similar drudgery tasks.
 
 It’s similar to how mechanization and industrialization revolutionized production in the 19th century. Over time nails, hammers, clothing, and much else that humans & companies needed and wanted for everyday life could be produced with much less effort, cost and manual labor. Britain pioneered many of the production techniques in the 1780s, which then spread across the United States and the rest of Europe throughout the 19th century. The industrial revolution truly transformed how goods were produced, removing manual and artisinal jobs from the equation for thousands of types of common products.
