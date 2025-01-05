@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://zenlife.work", // replace this with your deployed domain
+  website: "https://blog.ianua.app", // replace this with your deployed domain
   author: "Tyler Ayers",
-  profile: "https://zenlife.work/about",
+  profile: "https://blog.ianua.app/about",
   desc: "A collective for sustainable, efficient & creative tech solutions.",
-  title: "Zen Life Work",
+  title: "ianua",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
