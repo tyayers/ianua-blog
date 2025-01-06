@@ -12,7 +12,8 @@
     "format:check": "prettier --check . --plugin=prettier-plugin-astro",
     "format": "prettier --write . --plugin=prettier-plugin-astro",
     "lint": "eslint .",
-    "deploy": "git stage . && git commit -m 'updated' && git push origin main && npm run build && wrangler pages deploy ./dist"
+    "commit": "git stage . && git commit -m 'updated' && git push origin main",
+    "deploy": "npm run build && wrangler pages deploy ./dist"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.3",
